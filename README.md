@@ -1,2 +1,3 @@
-[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)](https://hacktoberfest.com/)
+<img src="https://raw.githubusercontent.com/apoorvaniyeng/apoorvaniyeng/main/hacktoberfestbadge.png" alt="Hacktoberfest 2025" width="150"/>
+
 
