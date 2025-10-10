@@ -1,1 +1,2 @@
-![Hacktoberfest 2025](https://raw.githubusercontent.com/apoorvaniyeng/apoorvaniyeng/main/hacktoberfestbadge.png)
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)](https://hacktoberfest.com/)
+
